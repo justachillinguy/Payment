@@ -5,25 +5,25 @@
 
 ![Proxy](https://i.ibb.co/ccvLnxnb/IMG-20250129-172959.jpg)  
 
-**100€** (valor do proxy + Vercel Hosting) + **0€** (mão de obra)  
+**100€** (valor do proxy + Vercel Hosting)
 
 ## **Bug Bounty (Critical Vulnerability Found Using Cross-Site Request Forgery):**  
 
-![Bug Bounty](https://com.miui.notes/note_image/e331dbd8ce804eb21f156c4d1bcc7bc071026167)  
+![Bug Bounty](https://i.ibb.co/svvd9Csv/IMG-20250129-172946.jpg)
 
 **800€** (vulnerabilidade crítica) + **0€** (horas de trabalho)  
 
-![Bug Details](https://com.miui.notes/note_image/5860d86ec06da681804237da0069a50d5eeb1e7f)  
+![Bug Details](https://i.ibb.co/wFxD2jdF/IMG-20250129-132508.png)  
 
 ## **Dashboard em Tempo Real:**  
 
-![Real-Time Dashboard](https://com.miui.notes/note_image/b25e46ee903bdb84f3a8185703d8630d09962ac1)  
+![Real-Time Dashboard](https://i.ibb.co/WN28T5Qm/1738223970655.jpg)
 
 **200€** (Site com os dados em tempo real)  
 
 ## **Encriptação de Código:**  
 
-![Code Encryption](https://com.miui.notes/note_image/cd8eaf60d2e6366477e7343e647976498d4ae4bc)  
+![Code Encryption](https://i.ibb.co/3mj5VLmh/Screenshot-2025-01-29-19-37-08-052-com-android-chrome-edit.jpg)
 
 **20€** (Encriptação do token de acesso com self-defending + debug protection)  
 
