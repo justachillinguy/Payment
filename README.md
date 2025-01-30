@@ -1,5 +1,5 @@
 ### **Frontend Dashboard (Pre-Designed Template):**  
-<h1> <b>0€</b> (design) + <b>5€</b> (edição do frontend) </h1> 
+<h2> <b>0€</b> (design) + <b>5€</b> (edição do frontend) </h2> 
 
 ### **Proxy Creation for CORS Bypass on POST Requests ([proxyforcors.vercel.app](https://proxyforcors.vercel.app/)):**  
 
